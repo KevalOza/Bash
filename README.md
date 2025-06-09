@@ -1,3 +1,3 @@
 # Bash
 
-This contains my bash practice samples
+This is the repository of the bash scripts written by me
