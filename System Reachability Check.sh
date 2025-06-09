@@ -6,7 +6,7 @@ for i in {1..100..1}
 do
     #Start the ping command but do not display the output
     ping -c1 $1 > /dev/null
-    if [ $? -eq 0]
+    if [ $? -eq 0 ]
     then   
         echo "+++++++++++++++++++++++"
         echo "The system is reachable"
